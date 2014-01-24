@@ -1,0 +1,71 @@
+- name: Fabian
+  mission: Co-Founder, CEO
+  animal: seahorse
+  contact: LinkedIn
+  link: //ch.linkedin.com/pub/fabian-frey/68/42a/b89
+
+- name: Timo
+  mission: Co-Founder, Finance
+  animal: fish
+  contact: LinkedIn
+  link: //ch.linkedin.com/pub/timo-bindler/26/80b/195
+
+- name: Reto
+  mission: Co-Founder, CTO
+  animal: owl
+  contact: Twitter
+  link: //twitter.com/cargomedia
+
+- name: Alexis
+  mission: Developer
+  animal: stag
+  contact: Github
+  link: //github.com/alexispeter
+
+- name: Christophe
+  mission: Design, Front-End
+  animal: bat
+  contact: Twitter
+  link: //twitter.com/stophecom
+
+- name: Tomasz
+  mission: Developer
+  animal: panda
+  contact: Twitter
+  link: //twitter.com/tomaszdurka
+
+- name: Marian
+  mission: Developer
+  animal: turtle
+  contact: Github
+  link: //github.com/mariansollmann
+
+- name: Sébastien
+  mission: Developer
+  animal: zebra
+  contact: LinkedIn
+  link: //ch.linkedin.com/in/sebastienfauvel/de
+
+- name: Chris
+  mission: Developer
+  animal: monkey
+  contact: Github
+  link: //github.com/kris-lab
+
+- name: Philipp
+  mission: Network Engineer
+  animal: dog
+  contact: Github
+  link: //github.com/ppp0
+
+- name: Matteo
+  mission: Marketing
+  animal: catapillar
+
+- name: Hannes
+  mission: Marketing
+  animal: bull
+
+- name: Patrick
+  mission: Support
+  animal: fox

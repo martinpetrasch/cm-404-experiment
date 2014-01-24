@@ -1,0 +1,33 @@
+- title:  PHP Developer (80-100%)
+  tags:   [PHP, MySQL, HTML, JavaScript, Ruby, Node.js, Elasticsearch, Memcached, Redis]
+  intro:  To further develop our framework, we are always looking for developers with strong knowledge of PHP, who like solving complex and interesting challenges.
+  tasks:  [
+          "Help refining our modern PHP web application framework",
+          "Develop and implement scalability strategies (distributed computing and caching etc.)",
+          "Implement interactive user interfaces, work on our UIMS (e.g. real-time feedback with Websockets)"
+          ]
+  requirements: [
+                "Bachelor of Computer Sciences or a similar degree in computer science",
+                "Experience in software and web development (analysis, architecture, design patterns, unit testing)",
+                "Specialist in object-oriented programming in PHP (maintainable, extendable and testable code)",
+                "Proactivity, self-reliance, flexibility and the ability to work in a team."
+                ]
+
+- title: Front-End Developer (50-100%)
+  tags: [Illustrator, Photoshop, HTML5, CSS3 (Less/Sass), JavaScript, Smarty, PHP]
+  intro:  To further develop our framework, we are looking for Front-End Developers with a strong affinity towards Design.
+  tasks:  [
+          "Graphic design & mockups",
+          "Follow our mobile-first philosophy",
+          "Implement responsive design with HTML5 / CSS3",
+          "Create interactive Interfaces using HTML, jQuery, Smarty",
+          "A/B testing"
+          ]
+  requirements: [
+                "Good knowledge in Illustrator or comparable",
+                "Solid HTML5 / CSS3 skills",
+                "Principle understanding of web frameworks",
+                "PHP, Smarty, Javascript, jQuery are an advantage",
+                "Curiosity in exploring new technologies",
+                "English language"
+                ]
