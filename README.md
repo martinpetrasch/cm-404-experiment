@@ -15,7 +15,7 @@ Make sure jekyll is installed
 ```
 gem install jekyll
 ```
-If operating on Windows change code page of cmd
+If operating on Windows change code page of "cmd"
 ```
 chcp 65001
 ```
