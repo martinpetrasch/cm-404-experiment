@@ -15,6 +15,10 @@ Make sure jekyll is installed
 ```
 gem install jekyll
 ```
+If operating on Windows change code page of cmd
+```
+chcp 65001
+```
 Build the site and serve it on `http://localhost:4000`
 ```
 jekyll serve --watch
