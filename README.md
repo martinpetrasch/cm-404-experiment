@@ -6,7 +6,7 @@ from [CargoMedia](https://github.com/cargomedia/cargomedia.github.io).
 
 Based on "[Google Gravity](http://www.mrdoob.com/projects/chromeexperiments/google-gravity/)" by Mr. doob.
 
-[Demo](http://data.martinpetrasch.com/cargo/404.html)
+Try the [Demo](http://data.martinpetrasch.com/cargo/404.html) and check out the impact to the simulation when resizing or moving the browser window.
 
 
 ## Test site locally
